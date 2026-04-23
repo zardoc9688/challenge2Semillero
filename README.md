@@ -3,7 +3,7 @@
 ## Visualizador 3D de Cortes Histológicos
 
 **Autores:** Daniel Yaruro, Juan Mantilla  
-**Fecha:** Enero 2026
+**Fecha:** Abril 2026
 
 ---
 
